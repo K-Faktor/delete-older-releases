@@ -1,14 +1,14 @@
 {
   "name": "delete-older-releases",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dev-drprasad/delete-older-releases"
+    "url": "git+https://github.com/K-Faktor/delete-older-releases"
   },
   "keywords": [],
-  "author": "REDDY PRASAD",
+  "author": "K-Faktor",
   "license": "ISC",
-  "homepage": "https://github.com/dev-drprasad/delete-older-releases",
+  "homepage": "https://github.com/K-Faktor/delete-older-releases",
   "dependencies": {}
 }
